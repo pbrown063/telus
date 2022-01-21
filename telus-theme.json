@@ -2,11 +2,11 @@
     "elements": [
         {
             "tag": "Element",
-            "shape": "RoundedBox",
+            "shape": "RoundedBox"
         },
         {
             "tag": "Infrastructure Node",
-            "background": "#ffffff",
+            "background": "#ffffff"
         },
         {
             "tag": "Software System",
@@ -27,7 +27,7 @@
         {
             "tag": "Container",
             "background": "#2B8000",
-            "color": "#ffffff",
+            "color": "#ffffff"
         }
     ],
     "relationships": []
