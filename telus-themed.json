@@ -24,7 +24,7 @@
         {
             "tag": "Component",
             "background": "#66CC00",
-            "color": "#ffffff"
+            "color": "#000000"
         },
         {
             "tag": "Container",
