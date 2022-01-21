@@ -1,0 +1,36 @@
+
+  
+{
+    "elements": [
+        {
+            "tag": "Element",
+            "shape": "RoundedBox"
+        },
+        {
+            "tag": "Infrastructure Node",
+            "background": "#ffffff"
+        },
+        {
+            "tag": "Software System",
+            "background": "#71757B",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Person",
+            "background": "#4B286D",
+            "color": "#ffffff",
+            "shape": "Person"
+        },
+        {
+            "tag": "Component",
+            "background": "#66CC00",
+            "color": "#ffffff"
+        },
+        {
+            "tag": "Container",
+            "background": "#2B8000",
+            "color": "#ffffff"
+        }
+    ],
+    "relationships": []
+}
